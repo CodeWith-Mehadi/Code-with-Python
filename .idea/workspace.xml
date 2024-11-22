@@ -48,6 +48,7 @@
     "Python.BMI.executor": "Run",
     "Python.BandNameGenerator.executor": "Run",
     "Python.Even or Odd number.executor": "Run",
+    "Python.Rock Paper Scissors.executor": "Run",
     "Python.leap year.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
