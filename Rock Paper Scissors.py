@@ -46,4 +46,4 @@ elif computer_choice > user_choice:
 elif user_choice > computer_choice:
     print("You Win!")
 elif computer_choice == user_choice:
-    print("It's a deaw")
+    print("It's a draw")
